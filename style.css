@@ -1,0 +1,26 @@
+body{
+    background-image: url("image.jpg");
+
+}
+.main{
+    border: 5px solid darkcyan ;
+    width: 172px;
+    margin: 0 auto;
+}
+.result{
+    width: 95%;
+    background-color: grey;
+    color: white;
+    padding-left: 5px;
+}
+.btnc{
+    width: 100%;
+    margin-top: 5px;
+    background-color: darkcyan;
+}
+.btn1{
+    width: 20%;
+    margin-left: 4px;
+    margin-top: 2px;
+    background-color: cadetblue;
+}
